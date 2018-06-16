@@ -1,0 +1,13 @@
+synonyms.txt
+
+ABLE#
+V###W
+ADD#O
+I###R
+LUCID
+
+AaH ABLE
+AaV AVAIL
+BeV WORD
+CaH ADD
+EaH LUCID

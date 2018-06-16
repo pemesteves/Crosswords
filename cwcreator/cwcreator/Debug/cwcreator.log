@@ -1,0 +1,13 @@
+﻿  Board.cpp
+  cwcreator.cpp
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(43): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(51): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(103): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(158): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(163): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(211): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(216): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(294): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(302): warning C4018: '>=': incompatibilidade de signed/unsigned
+  Gerando Código...
+  cwcreator.vcxproj -> C:\Users\Pedro Esteves\Desktop\MIEIC\1ºAno\2ºSemestre\Programação\2º Trabalho\cwcreator\Debug\cwcreator.exe

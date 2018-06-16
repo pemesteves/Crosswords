@@ -1,0 +1,16 @@
+﻿  cwcreator.cpp
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(43): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(51): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(103): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(158): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(163): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(211): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(216): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(294): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwcreator\cwcreator\cwcreator.cpp(302): warning C4018: '>=': incompatibilidade de signed/unsigned
+  Gerando código
+  0 of 863 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  cwcreator.vcxproj -> C:\Users\Pedro Esteves\Desktop\MIEIC\1ºAno\2ºSemestre\Programação\2º Trabalho\cwcreator\Release\cwcreator.exe
