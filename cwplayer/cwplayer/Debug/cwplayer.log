@@ -1,0 +1,14 @@
+﻿  Board.cpp
+  Dictionary.cpp
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\dictionary.cpp(121): warning C4018: '<': incompatibilidade de signed/unsigned
+  cwplayer.cpp
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(40): warning C4244: 'argumento': conversão de 'time_t' para 'unsigned int', possível perda de dados
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(46): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(54): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(102): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(177): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(182): warning C4018: '<': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(304): warning C4018: '>=': incompatibilidade de signed/unsigned
+c:\users\pedro esteves\desktop\mieic\1ºano\2ºsemestre\programação\2º trabalho\cwplayer\cwplayer\cwplayer.cpp(311): warning C4018: '>=': incompatibilidade de signed/unsigned
+  Gerando Código...
+  cwplayer.vcxproj -> C:\Users\Pedro Esteves\Desktop\MIEIC\1ºAno\2ºSemestre\Programação\2º Trabalho\cwplayer\Debug\cwplayer.exe

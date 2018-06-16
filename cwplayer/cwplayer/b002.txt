@@ -1,0 +1,19 @@
+synonyms.txt
+
+TREMULOUS#
+R########W
+I########O
+B########R
+U########K
+NUGATORY#M
+A###I####A
+LIKENESS#N
+####G#####
+####E#####
+
+AaH TREMULOUS
+AaV TRIBUNAL
+BjV WORKMAN
+FaH NUGATORY
+FeV TINGE
+HaH LIKENESS

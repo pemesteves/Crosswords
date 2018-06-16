@@ -1,0 +1,4 @@
+Pedro: time - 19; clues - 0
+Pedro2: time - 15; clues - 0
+Esteves: time - 13; clues - 0
+Pedro: time - 129; clues - 1
